@@ -111,10 +111,7 @@ nest generate service modules/nom-du-service
 nest generate resolver modules/nom-du-resolver
 ```
 
----
 
-## 📜 Licence
-Ce projet est sous licence **MIT**.
 
 ---
 
